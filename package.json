@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"tritran",
-	"description":"thong tin du an"
+	"description":"thong tin du an",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
